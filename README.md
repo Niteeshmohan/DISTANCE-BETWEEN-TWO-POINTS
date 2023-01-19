@@ -28,7 +28,7 @@ print("{:.2f}".format(dis))
 
 
 ### OUTPUT:
-![eig](ss.png)
+![eig](Screenshot_20230118_092350.png)
 
 ### RESULT:
 Thus the experiment executed sucessfully
